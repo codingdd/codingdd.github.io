@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-baseurl: /
+url: https://codingdd.github.io/
 author: webfrogs
 pygments: true
 safe: true
