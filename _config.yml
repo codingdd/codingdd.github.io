@@ -1,0 +1,9 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+baseurl: /
+author: webfrogs
+pygments: true
+safe: true
+paginate: 16
+auto: true
+
