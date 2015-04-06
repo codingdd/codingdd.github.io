@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 url: http://codingdd.com
-author: webfrogs
+author: codingdd
 pygments: true
 safe: true
 paginate: 16
